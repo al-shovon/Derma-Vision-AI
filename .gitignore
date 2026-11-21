@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets and local config - never commit these
+.env
+*.env
+kaggle.json
+.streamlit/secrets.toml
+
+# Data and archives (the dataset must not be committed)
+data/
+HAM10000*/
+*.zip
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch outputs (the final models/ folder is tracked on purpose)
+test_run/
+models_*/
