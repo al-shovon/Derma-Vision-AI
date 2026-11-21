@@ -13,12 +13,12 @@ Upload a dermoscopy image and get a predicted lesion type, a confidence score, a
 ![License: MIT](https://img.shields.io/badge/License-MIT-2E8B57)
 ![Status: research prototype](https://img.shields.io/badge/Status-research%20prototype-C77700)
 
-[Try it](#try-it) · [How it works](#how-it-works) · [Results](#results) · [Run locally](#run-it-on-your-computer) · [Train your own](#train-your-own-model) · [FAQ](#faq) · [Limitations](#limitations-and-responsible-use)
+[Try it](#try-it) · [How it works](#how-it-works) · [Results](#results) · [FAQ](#faq) · [Limitations](#limitations-and-responsible-use)
 
 </div>
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://derma-vision-ai.streamlit.app/)
+### Live Deployment Link:  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://derma-vision-ai.streamlit.app/)
 
 
 > [!WARNING]
