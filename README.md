@@ -40,7 +40,6 @@ Give the app one dermoscopic image and it returns:
 | I want to… | Go here |
 |---|---|
 | run the app on my computer | [Run it on your computer](#run-it-on-your-computer) |
-| train the model myself, free, in the browser | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/al-shovon/Derma-Vision-AI/blob/main/DermaVision_Colab.ipynb) |
 | understand how it works | [How it works](#how-it-works) |
 | see how well it performs | [Results](#results) |
 | know what it cannot do | [Limitations and responsible use](#limitations-and-responsible-use) |
